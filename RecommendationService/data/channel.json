@@ -1,0 +1,102 @@
+[
+  {
+    "id": "53a41eef-1b82-4da9-90ed-bb1b4205f284",
+    "name": "channel 0",
+    "category": "6665f6fc-867a-4ce1-bda9-58939d0ac8e4"
+  },
+  {
+    "id": "8fbf00f8-1bad-44b3-99a9-3cbcbb282f44",
+    "name": "channel 1",
+    "category": "a4293f1a-f715-44fa-9ed1-f218fdd88062"
+  },
+  {
+    "id": "a69c5415-6bfa-45fb-a626-ec3340dae18c",
+    "name": "channel 2",
+    "category": "3794a95d-0d41-4384-b300-35735c5d0bd0"
+  },
+  {
+    "id": "03ce49cd-6520-42a5-8d24-b938983780a0",
+    "name": "channel 3",
+    "category": "d9e9c57a-bf94-4dc4-b8d4-38979d29b284"
+  },
+  {
+    "id": "4a99d4fe-4c9b-4777-be3a-492fe840f8c3",
+    "name": "channel 4",
+    "category": "39c4944f-4ce2-4427-a76d-8cbf52685a9d"
+  },
+  {
+    "id": "d3edd3fd-97e4-4cd0-81d8-2c4ac2c05362",
+    "name": "channel 5",
+    "category": "12324b9e-2ae5-478d-9104-042bf8bac5a8"
+  },
+  {
+    "id": "8dc60f4c-71d2-4531-9b6d-e46f1a2a1f5c",
+    "name": "channel 6",
+    "category": "95355c43-35f6-42fb-9c1c-d6284d6be8b2"
+  },
+  {
+    "id": "1099c5cf-1698-438b-bf89-aa4cc69dffa5",
+    "name": "channel 7",
+    "category": "3af19804-b4c5-4ba5-9877-ad11a6805e33"
+  },
+  {
+    "id": "2730a3bd-0558-4bf1-82a0-e7767ca886bb",
+    "name": "channel 8",
+    "category": "39c4944f-4ce2-4427-a76d-8cbf52685a9d"
+  },
+  {
+    "id": "919d8e79-8e79-4b62-8cac-603a1a00cc43",
+    "name": "channel 9",
+    "category": "357d0ecd-e763-458f-bb58-a567edd61ba9"
+  },
+  {
+    "id": "511d29e4-a0e1-4ccb-8711-ff1dd92bc205",
+    "name": "channel 10",
+    "category": "f6037505-b1a1-4fcb-aecd-3b597e1faca1"
+  },
+  {
+    "id": "0bb264b2-1eb2-428d-b18d-e27dd42ea31c",
+    "name": "channel 11",
+    "category": "6665f6fc-867a-4ce1-bda9-58939d0ac8e4"
+  },
+  {
+    "id": "b541a1ec-95ee-4dae-8ebe-a3f540be006b",
+    "name": "channel 12",
+    "category": "064ef423-4850-4915-83f6-156d8805cb7b"
+  },
+  {
+    "id": "5f7c4705-1d46-42ba-9bb4-6dc4963d0660",
+    "name": "channel 13",
+    "category": "f6037505-b1a1-4fcb-aecd-3b597e1faca1"
+  },
+  {
+    "id": "82666a62-9efb-4fba-8ebc-47a4fbe036bb",
+    "name": "channel 14",
+    "category": "064ef423-4850-4915-83f6-156d8805cb7b"
+  },
+  {
+    "id": "a250d73e-75e6-4161-aeef-bf7833357f68",
+    "name": "channel 15",
+    "category": "357d0ecd-e763-458f-bb58-a567edd61ba9"
+  },
+  {
+    "id": "2a45a7fc-1f0f-438f-9fae-7eb4891eaaac",
+    "name": "channel 16",
+    "category": "95355c43-35f6-42fb-9c1c-d6284d6be8b2"
+  },
+  {
+    "id": "1dc5bcdc-a9c6-4f4d-88ed-01b3f4c39e81",
+    "name": "channel 17",
+    "category": "31a4b195-e4d1-4eb0-8311-5160024a954f"
+  },
+  {
+    "id": "b9141d76-605c-4f9c-bdfa-5c425c64b60f",
+    "name": "channel 18",
+    "category": "d9e9c57a-bf94-4dc4-b8d4-38979d29b284"
+  },
+  {
+    "id": "b7f53a17-89a3-4868-9fbe-cf042418b871",
+    "name": "channel 19",
+    "category": "31a4b195-e4d1-4eb0-8311-5160024a954f"
+  }
+]
